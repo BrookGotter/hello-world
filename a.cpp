@@ -43,6 +43,10 @@ public:
 	}
 };
 
+class CC{
+	
+};
+
 int main()
 {
 	char c1='a',c2='z';
